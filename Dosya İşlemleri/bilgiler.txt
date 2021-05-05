@@ -1,0 +1,11 @@
+yapma
+etme 
+görme
+sürükleme
+gitme
+python
+java
+c
+c++
+html
+css
